@@ -17,7 +17,7 @@ Freelacer.com: https://www.freelancer.com/u/joluzel19" > Upwork.com </a> and <a 
 
 - 🌱 I’m currently learning API Authentication, PHPUnitTesting
 
-- 👯 I’m looking to collaborate on Projects with Laravel and all the stack around it.
+<!-- - 👯 I’m looking to collaborate on Projects with Laravel and all the stack around it. -->
 
 - 💬 Talk to me about I'm a web developer with 3 years of experience working with Laravel, Livewire, AlpineJS, Bootstrap, Livewire, etc.
 I'm responsible, cheerful,  committed with work, reliable, enjoy learning.
@@ -38,7 +38,7 @@ I enjoy what I do.
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'codewithluis.hashnode.dev'>
+<a href = 'https://codewithluis.hashnode.dev'>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 
