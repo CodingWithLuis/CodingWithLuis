@@ -41,8 +41,6 @@ I enjoy what I do.
 <a href = 'codewithluis.hashnode.dev'>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
-<a href = 'https://www.github.com/CodingWithLuis'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
 
 Thanks for visiting! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=CodingWithLuis.visitor-badge)
